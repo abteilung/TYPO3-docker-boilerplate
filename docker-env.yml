@@ -10,7 +10,7 @@
 # Webserver
 
 # TYPO3 CMS
-DOCUMENT_ROOT=code/
+DOCUMENT_ROOT=code/htdocs/
 DOCUMENT_INDEX=index.php
 CLI_SCRIPT=php typo3/cli_dispatch.phpsh
 
